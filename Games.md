@@ -1,35 +1,55 @@
-- [Lies Of P](#lies-of-p)
+- [Metal Gear Solid](#metal-gear-solid)
   - [通关信息](#通关信息)
   - [评价](#评价)
-- [Superliminal](#superliminal)
+- [Lies Of P](#lies-of-p)
   - [通关信息](#通关信息-1)
   - [评价](#评价-1)
-- [仙剑奇侠传7](#仙剑奇侠传7)
+- [Superliminal](#superliminal)
   - [通关信息](#通关信息-2)
   - [评价](#评价-2)
-- [cocoon](#cocoon)
+- [仙剑奇侠传7](#仙剑奇侠传7)
   - [通关信息](#通关信息-3)
   - [评价](#评价-3)
-- [OPUS：龙脉长歌](#opus龙脉长歌)
+- [cocoon](#cocoon)
   - [通关信息](#通关信息-4)
   - [评价](#评价-4)
-- [Shadow of the Colossus](#shadow-of-the-colossus)
+- [OPUS：龙脉长歌](#opus龙脉长歌)
   - [通关信息](#通关信息-5)
   - [评价](#评价-5)
-- [UNCHARTED: Golden Abyss](#uncharted-golden-abyss)
+- [Shadow of the Colossus](#shadow-of-the-colossus)
   - [通关信息](#通关信息-6)
   - [评价](#评价-6)
-- [Assemble](#assemble)
+- [UNCHARTED: Golden Abyss](#uncharted-golden-abyss)
   - [通关信息](#通关信息-7)
   - [评价](#评价-7)
-- [South of the Circle](#south-of-the-circle)
+- [Assemble](#assemble)
   - [通关信息](#通关信息-8)
   - [评价](#评价-8)
-- [ICO](#ico)
+- [South of the Circle](#south-of-the-circle)
   - [通关信息](#通关信息-9)
   - [评价](#评价-9)
+- [ICO](#ico)
+  - [通关信息](#通关信息-10)
+  - [评价](#评价-10)
 
 ---
+# Metal Gear Solid
+## 通关信息
+
+| 平台 | 时长 | 状态 | 时间 |
+| ---- | --- | --- | --- |
+| PS5     | 7.3h    | 通关    | 2024.01.20    |
+
+## 评价
+
+> 没想到小岛秀夫在那个时候（1998）就能播那么久的片...
+
+由于玩法拉满，这个游戏到现在也很能玩，能够让人无视画面和别扭的操作而沉浸其中，难怪是不少人心中的神作
+
+不过大概是时代原因，个人觉得梅尔的存在很怪
+
+没想到在那个时候就有如此丰富的细节，整体上就没有重复的流程，像演出对话之类的；唯一就是有些时候让人跑图得有点烦
+
 # Lies Of P
 ## 通关信息
 
