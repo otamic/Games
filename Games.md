@@ -1,38 +1,52 @@
-- [Metal Gear Solid](#metal-gear-solid)
+- [Metal Gear Solid 2](#metal-gear-solid-2)
   - [通关信息](#通关信息)
   - [评价](#评价)
-- [Lies Of P](#lies-of-p)
+- [Metal Gear Solid](#metal-gear-solid)
   - [通关信息](#通关信息-1)
   - [评价](#评价-1)
-- [Superliminal](#superliminal)
+- [Lies Of P](#lies-of-p)
   - [通关信息](#通关信息-2)
   - [评价](#评价-2)
-- [仙剑奇侠传7](#仙剑奇侠传7)
+- [Superliminal](#superliminal)
   - [通关信息](#通关信息-3)
   - [评价](#评价-3)
-- [cocoon](#cocoon)
+- [仙剑奇侠传7](#仙剑奇侠传7)
   - [通关信息](#通关信息-4)
   - [评价](#评价-4)
-- [OPUS：龙脉长歌](#opus龙脉长歌)
+- [cocoon](#cocoon)
   - [通关信息](#通关信息-5)
   - [评价](#评价-5)
-- [Shadow of the Colossus](#shadow-of-the-colossus)
+- [OPUS：龙脉长歌](#opus龙脉长歌)
   - [通关信息](#通关信息-6)
   - [评价](#评价-6)
-- [UNCHARTED: Golden Abyss](#uncharted-golden-abyss)
+- [Shadow of the Colossus](#shadow-of-the-colossus)
   - [通关信息](#通关信息-7)
   - [评价](#评价-7)
-- [Assemble](#assemble)
+- [UNCHARTED: Golden Abyss](#uncharted-golden-abyss)
   - [通关信息](#通关信息-8)
   - [评价](#评价-8)
-- [South of the Circle](#south-of-the-circle)
+- [Assemble](#assemble)
   - [通关信息](#通关信息-9)
   - [评价](#评价-9)
-- [ICO](#ico)
+- [South of the Circle](#south-of-the-circle)
   - [通关信息](#通关信息-10)
   - [评价](#评价-10)
+- [ICO](#ico)
+  - [通关信息](#通关信息-11)
+  - [评价](#评价-11)
 
 ---
+# Metal Gear Solid 2
+## 通关信息
+
+| 平台 | 时长 | 状态 | 时间 |
+| ---- | --- | --- | --- |
+| PS5     | 18h    | 通关    | 2024.01.25    |
+
+## 评价
+
+和第一部相似的体验，这一步剧情展开的更大了，但是最后尾收的有点仓促
+
 # Metal Gear Solid
 ## 通关信息
 
