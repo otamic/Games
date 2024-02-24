@@ -1,41 +1,81 @@
-- [Metal Gear Solid 2](#metal-gear-solid-2)
+- [The Last of Us Part I](#the-last-of-us-part-i)
   - [通关信息](#通关信息)
   - [评价](#评价)
-- [Metal Gear Solid](#metal-gear-solid)
+- [SILENT HILL: The Short Message](#silent-hill-the-short-message)
   - [通关信息](#通关信息-1)
   - [评价](#评价-1)
-- [Lies Of P](#lies-of-p)
+- [Metal Gear Solid 2](#metal-gear-solid-2)
   - [通关信息](#通关信息-2)
   - [评价](#评价-2)
-- [Superliminal](#superliminal)
+- [Metal Gear Solid](#metal-gear-solid)
   - [通关信息](#通关信息-3)
   - [评价](#评价-3)
-- [仙剑奇侠传7](#仙剑奇侠传7)
+- [Lies Of P](#lies-of-p)
   - [通关信息](#通关信息-4)
   - [评价](#评价-4)
-- [cocoon](#cocoon)
+- [Superliminal](#superliminal)
   - [通关信息](#通关信息-5)
   - [评价](#评价-5)
-- [OPUS：龙脉长歌](#opus龙脉长歌)
+- [仙剑奇侠传7](#仙剑奇侠传7)
   - [通关信息](#通关信息-6)
   - [评价](#评价-6)
-- [Shadow of the Colossus](#shadow-of-the-colossus)
+- [cocoon](#cocoon)
   - [通关信息](#通关信息-7)
   - [评价](#评价-7)
-- [UNCHARTED: Golden Abyss](#uncharted-golden-abyss)
+- [OPUS：龙脉长歌](#opus龙脉长歌)
   - [通关信息](#通关信息-8)
   - [评价](#评价-8)
-- [Assemble](#assemble)
+- [Shadow of the Colossus](#shadow-of-the-colossus)
   - [通关信息](#通关信息-9)
   - [评价](#评价-9)
-- [South of the Circle](#south-of-the-circle)
+- [UNCHARTED: Golden Abyss](#uncharted-golden-abyss)
   - [通关信息](#通关信息-10)
   - [评价](#评价-10)
-- [ICO](#ico)
+- [Assemble](#assemble)
   - [通关信息](#通关信息-11)
   - [评价](#评价-11)
+- [South of the Circle](#south-of-the-circle)
+  - [通关信息](#通关信息-12)
+  - [评价](#评价-12)
+- [ICO](#ico)
+  - [通关信息](#通关信息-13)
+  - [评价](#评价-13)
 
 ---
+# The Last of Us Part I
+## 通关信息
+
+| 平台 | 时长 | 状态 | 时间 |
+| ---- | --- | --- | --- |
+| PS5     |  17h   | 通关    | 2024.02.23    |
+
+## 评价
+
+之前是玩完了PS4上的PS3重制版的，整个流程不是很长，时间也没过那么久，所有这次玩很多流程都还记得很清楚
+
+画面上确实改进巨大，但是从之前重制版到现在，我总觉得Joel的衣服看着有点说不上的不真实
+
+并且在玩过二代之后，再来看这部确实会显得不少地方有瑕疵。虽然第二部也差不多，主角的战斗力也太强了。流程真的有点短了，不过那个年代的游戏可能差不多就这样？大部分节奏都是很好的，但是进医院前的那段下水道真的太长了
+
+而且这次玩居然在那个拖发电机的地方卡了一阵子，以及Left Behind最后Ellie为Riley推架子那也死了好多次...
+
+# SILENT HILL: The Short Message
+## 通关信息
+
+| 平台 | 时长 | 状态 | 时间 |
+| ---- | --- | --- | --- |
+|  PS5    | 5h    | 通关    |  2024.02.02    |
+
+## 评价
+
+科乐美为新的寂静岭出的预热作品
+
+我之前基本上算没玩过寂静岭系列，只浅浅地玩过一点PSP上的某一版，已经快不记得多少了；但是这个系列在其他方面接触也不算少，2、3部的剧情和手法多少还是知道
+
+不过实际玩下来，体验还是好上不少。虽然这部我个人觉得不算吓人，讲的故事悬念也不多，甚至故事本身不算精彩，但是氛围的塑造和游戏性还行，总之就是体验还不错。
+
+之前还有点怀疑科乐美这么多年了，还会做游戏吗，现在看来或许还行？之前看着合金装备的重制预告看着也还行。
+
 # Metal Gear Solid 2
 ## 通关信息
 
