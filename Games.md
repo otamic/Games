@@ -1,62 +1,90 @@
-- [The Last of Us Part I](#the-last-of-us-part-i)
+- [师父](#师父)
   - [通关信息](#通关信息)
   - [评价](#评价)
-- [SILENT HILL: The Short Message](#silent-hill-the-short-message)
+- [The Last of Us Part I](#the-last-of-us-part-i)
   - [通关信息](#通关信息-1)
   - [评价](#评价-1)
-- [Metal Gear Solid 2](#metal-gear-solid-2)
+- [SILENT HILL: The Short Message](#silent-hill-the-short-message)
   - [通关信息](#通关信息-2)
   - [评价](#评价-2)
-- [Metal Gear Solid](#metal-gear-solid)
+- [Metal Gear Solid 2](#metal-gear-solid-2)
   - [通关信息](#通关信息-3)
   - [评价](#评价-3)
-- [Lies Of P](#lies-of-p)
+- [Metal Gear Solid](#metal-gear-solid)
   - [通关信息](#通关信息-4)
   - [评价](#评价-4)
-- [Superliminal](#superliminal)
+- [Lies Of P](#lies-of-p)
   - [通关信息](#通关信息-5)
   - [评价](#评价-5)
-- [仙剑奇侠传7](#仙剑奇侠传7)
+- [Superliminal](#superliminal)
   - [通关信息](#通关信息-6)
   - [评价](#评价-6)
-- [cocoon](#cocoon)
+- [仙剑奇侠传7](#仙剑奇侠传7)
   - [通关信息](#通关信息-7)
   - [评价](#评价-7)
-- [OPUS：龙脉长歌](#opus龙脉长歌)
+- [cocoon](#cocoon)
   - [通关信息](#通关信息-8)
   - [评价](#评价-8)
-- [Shadow of the Colossus](#shadow-of-the-colossus)
+- [OPUS：龙脉长歌](#opus龙脉长歌)
   - [通关信息](#通关信息-9)
   - [评价](#评价-9)
-- [UNCHARTED: Golden Abyss](#uncharted-golden-abyss)
+- [Shadow of the Colossus](#shadow-of-the-colossus)
   - [通关信息](#通关信息-10)
   - [评价](#评价-10)
-- [Assemble](#assemble)
+- [UNCHARTED: Golden Abyss](#uncharted-golden-abyss)
   - [通关信息](#通关信息-11)
   - [评价](#评价-11)
-- [South of the Circle](#south-of-the-circle)
+- [Assemble](#assemble)
   - [通关信息](#通关信息-12)
   - [评价](#评价-12)
-- [ICO](#ico)
+- [South of the Circle](#south-of-the-circle)
   - [通关信息](#通关信息-13)
   - [评价](#评价-13)
-- [Tales of Berseria 绯夜传奇](#tales-of-berseria-绯夜传奇)
+- [ICO](#ico)
   - [通关信息](#通关信息-14)
   - [评价](#评价-14)
-- [黄昏旅馆 215房间](#黄昏旅馆-215房间)
+- [Tales of Berseria 绯夜传奇](#tales-of-berseria-绯夜传奇)
   - [通关信息](#通关信息-15)
   - [评价](#评价-15)
-- [7 Days to End with You](#7-days-to-end-with-you)
+- [黄昏旅馆 215房间](#黄昏旅馆-215房间)
   - [通关信息](#通关信息-16)
   - [评价](#评价-16)
-- [The Unfinished Swan](#the-unfinished-swan)
+- [7 Days to End with You](#7-days-to-end-with-you)
   - [通关信息](#通关信息-17)
   - [评价](#评价-17)
-- [What Remains of Edith Finch](#what-remains-of-edith-finch)
+- [The Unfinished Swan](#the-unfinished-swan)
   - [通关信息](#通关信息-18)
   - [评价](#评价-18)
+- [What Remains of Edith Finch](#what-remains-of-edith-finch)
+  - [通关信息](#通关信息-19)
+  - [评价](#评价-19)
 
 ---
+# 师父
+## 通关信息
+
+| 平台 | 时长 | 状态 | 时间 |
+| ---- | --- | --- | --- |
+|  PS5    | 18h    | 通关    | 2024.03.11    |
+
+## 评价
+
+自只狼之后，很久没有体验到这么酣畅淋漓的战斗了
+
+师父的战斗手感就是有这么好，操作简单，但是难度并不低，玩的时候能够明显感觉到自己的学习曲线
+
+一招一式，你来我回，无论是击中还是被击中带来的打击感都很强，玩到后面就是单纯的考反应和自己的熟练程度，这种更像是真的战斗
+
+所以，对于卡普空系的动作游戏，我完全是更偏好这种在操作上做减法，而在敌人的出招上做加法的动作游戏
+
+对于这家做出中国（内容）游戏的法国工作室，能看出他们很多地方都太用心了，让我一个国人很是感动（也气在国内厂商在干什么）
+
+故事简单，甚至讲的也不复杂，某方面上更能让玩家关注于战斗上，但是不得不说两个结局的设置得非常巧妙；“不战而屈人之兵”，既服务于剧情也服务于玩法，妙；从第一个Boss到最后的Boss，难度递增的同时，战斗上也真的做到了返璞归真，最后一战的出招没有那么花哨，纯粹拼反应，很有“天下武功，为快不破”的韵味，妙
+
+整个游戏的美术风格我特别喜欢，特别是艺术馆那一章节（虽然艺术家的一阶段我现在都不是很会打），特别是打到后面的剪影风格，有种意象表达的意味在里面，可惜是这里面的“神”还是差了一些
+
+这个游戏对我来说唯一一小处可惜的点也在于此，可能毕竟是法国工作室，有不少地方还是只得其形而为得其意，像其中的取名我个人的感觉就是一眼外国人在取名...不过如我前面所述，能做这种地步，很用心了，让我感动
+
 # The Last of Us Part I
 ## 通关信息
 
