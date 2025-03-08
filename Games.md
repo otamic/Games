@@ -1,65 +1,87 @@
-- [师父](#师父)
+- [地狱之刃2](#地狱之刃2)
   - [通关信息](#通关信息)
   - [评价](#评价)
-- [The Last of Us Part I](#the-last-of-us-part-i)
+- [师父](#师父)
   - [通关信息](#通关信息-1)
   - [评价](#评价-1)
-- [SILENT HILL: The Short Message](#silent-hill-the-short-message)
+- [The Last of Us Part I](#the-last-of-us-part-i)
   - [通关信息](#通关信息-2)
   - [评价](#评价-2)
-- [Metal Gear Solid 2](#metal-gear-solid-2)
+- [SILENT HILL: The Short Message](#silent-hill-the-short-message)
   - [通关信息](#通关信息-3)
   - [评价](#评价-3)
-- [Metal Gear Solid](#metal-gear-solid)
+- [Metal Gear Solid 2](#metal-gear-solid-2)
   - [通关信息](#通关信息-4)
   - [评价](#评价-4)
-- [Lies Of P](#lies-of-p)
+- [Metal Gear Solid](#metal-gear-solid)
   - [通关信息](#通关信息-5)
   - [评价](#评价-5)
-- [Superliminal](#superliminal)
+- [Lies Of P](#lies-of-p)
   - [通关信息](#通关信息-6)
   - [评价](#评价-6)
-- [仙剑奇侠传7](#仙剑奇侠传7)
+- [Superliminal](#superliminal)
   - [通关信息](#通关信息-7)
   - [评价](#评价-7)
-- [cocoon](#cocoon)
+- [仙剑奇侠传7](#仙剑奇侠传7)
   - [通关信息](#通关信息-8)
   - [评价](#评价-8)
-- [OPUS：龙脉长歌](#opus龙脉长歌)
+- [cocoon](#cocoon)
   - [通关信息](#通关信息-9)
   - [评价](#评价-9)
-- [Shadow of the Colossus](#shadow-of-the-colossus)
+- [OPUS：龙脉长歌](#opus龙脉长歌)
   - [通关信息](#通关信息-10)
   - [评价](#评价-10)
-- [UNCHARTED: Golden Abyss](#uncharted-golden-abyss)
+- [Shadow of the Colossus](#shadow-of-the-colossus)
   - [通关信息](#通关信息-11)
   - [评价](#评价-11)
-- [Assemble](#assemble)
+- [UNCHARTED: Golden Abyss](#uncharted-golden-abyss)
   - [通关信息](#通关信息-12)
   - [评价](#评价-12)
-- [South of the Circle](#south-of-the-circle)
+- [Assemble](#assemble)
   - [通关信息](#通关信息-13)
   - [评价](#评价-13)
-- [ICO](#ico)
+- [South of the Circle](#south-of-the-circle)
   - [通关信息](#通关信息-14)
   - [评价](#评价-14)
-- [Tales of Berseria 绯夜传奇](#tales-of-berseria-绯夜传奇)
+- [ICO](#ico)
   - [通关信息](#通关信息-15)
   - [评价](#评价-15)
-- [黄昏旅馆 215房间](#黄昏旅馆-215房间)
+- [Tales of Berseria 绯夜传奇](#tales-of-berseria-绯夜传奇)
   - [通关信息](#通关信息-16)
   - [评价](#评价-16)
-- [7 Days to End with You](#7-days-to-end-with-you)
+- [黄昏旅馆 215房间](#黄昏旅馆-215房间)
   - [通关信息](#通关信息-17)
   - [评价](#评价-17)
-- [The Unfinished Swan](#the-unfinished-swan)
+- [7 Days to End with You](#7-days-to-end-with-you)
   - [通关信息](#通关信息-18)
   - [评价](#评价-18)
-- [What Remains of Edith Finch](#what-remains-of-edith-finch)
+- [The Unfinished Swan](#the-unfinished-swan)
   - [通关信息](#通关信息-19)
   - [评价](#评价-19)
+- [What Remains of Edith Finch](#what-remains-of-edith-finch)
+  - [通关信息](#通关信息-20)
+  - [评价](#评价-20)
 
 ---
+# 地狱之刃2
+## 通关信息
+
+| 平台 | 时长 | 状态 | 时间 |
+| ---- | --- | --- | --- |
+|  PGP    | 7h    | 通关    | 2025.03.09    |
+
+## 评价
+
+至今为止最顶级的画质，同样是虚幻5，也第一次见效果这么好的，完全是能以假乱真了，特别是这一部有很多“水”的参与，也能保持很真实--雨水、湿润的岩石、河流和大海都很真实
+
+节奏稍微有点慢，且感觉剧情很谜语（不过有可能是我个人对北欧的神话不是很了解），但故事其实挺直白和简单的；就是中间说了很多没懂的，但又不影响故事的大纲
+
+第二部弱化了很多解密（也知道大家不是很喜欢）更像一个步行模拟器了，但这个画面，步行真是一种享受了
+
+感觉成本太高了，故事能感觉还是删了不少，但还是讲述完整了，不知道后面还能不能有
+
+战斗的手感和第一部一摸一样，但第一部当时很惊艳，这里还有点疲了，不过多了很多的处决效果
+
 # 师父
 ## 通关信息
 
