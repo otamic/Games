@@ -1,68 +1,88 @@
-- [地狱之刃2](#地狱之刃2)
+- [AI LIMIT 无限机兵](#ai-limit-无限机兵)
   - [通关信息](#通关信息)
   - [评价](#评价)
-- [师父](#师父)
+- [地狱之刃2](#地狱之刃2)
   - [通关信息](#通关信息-1)
   - [评价](#评价-1)
-- [The Last of Us Part I](#the-last-of-us-part-i)
+- [师父](#师父)
   - [通关信息](#通关信息-2)
   - [评价](#评价-2)
-- [SILENT HILL: The Short Message](#silent-hill-the-short-message)
+- [The Last of Us Part I](#the-last-of-us-part-i)
   - [通关信息](#通关信息-3)
   - [评价](#评价-3)
-- [Metal Gear Solid 2](#metal-gear-solid-2)
+- [SILENT HILL: The Short Message](#silent-hill-the-short-message)
   - [通关信息](#通关信息-4)
   - [评价](#评价-4)
-- [Metal Gear Solid](#metal-gear-solid)
+- [Metal Gear Solid 2](#metal-gear-solid-2)
   - [通关信息](#通关信息-5)
   - [评价](#评价-5)
-- [Lies Of P](#lies-of-p)
+- [Metal Gear Solid](#metal-gear-solid)
   - [通关信息](#通关信息-6)
   - [评价](#评价-6)
-- [Superliminal](#superliminal)
+- [Lies Of P](#lies-of-p)
   - [通关信息](#通关信息-7)
   - [评价](#评价-7)
-- [仙剑奇侠传7](#仙剑奇侠传7)
+- [Superliminal](#superliminal)
   - [通关信息](#通关信息-8)
   - [评价](#评价-8)
-- [cocoon](#cocoon)
+- [仙剑奇侠传7](#仙剑奇侠传7)
   - [通关信息](#通关信息-9)
   - [评价](#评价-9)
-- [OPUS：龙脉长歌](#opus龙脉长歌)
+- [cocoon](#cocoon)
   - [通关信息](#通关信息-10)
   - [评价](#评价-10)
-- [Shadow of the Colossus](#shadow-of-the-colossus)
+- [OPUS：龙脉长歌](#opus龙脉长歌)
   - [通关信息](#通关信息-11)
   - [评价](#评价-11)
-- [UNCHARTED: Golden Abyss](#uncharted-golden-abyss)
+- [Shadow of the Colossus](#shadow-of-the-colossus)
   - [通关信息](#通关信息-12)
   - [评价](#评价-12)
-- [Assemble](#assemble)
+- [UNCHARTED: Golden Abyss](#uncharted-golden-abyss)
   - [通关信息](#通关信息-13)
   - [评价](#评价-13)
-- [South of the Circle](#south-of-the-circle)
+- [Assemble](#assemble)
   - [通关信息](#通关信息-14)
   - [评价](#评价-14)
-- [ICO](#ico)
+- [South of the Circle](#south-of-the-circle)
   - [通关信息](#通关信息-15)
   - [评价](#评价-15)
-- [Tales of Berseria 绯夜传奇](#tales-of-berseria-绯夜传奇)
+- [ICO](#ico)
   - [通关信息](#通关信息-16)
   - [评价](#评价-16)
-- [黄昏旅馆 215房间](#黄昏旅馆-215房间)
+- [Tales of Berseria 绯夜传奇](#tales-of-berseria-绯夜传奇)
   - [通关信息](#通关信息-17)
   - [评价](#评价-17)
-- [7 Days to End with You](#7-days-to-end-with-you)
+- [黄昏旅馆 215房间](#黄昏旅馆-215房间)
   - [通关信息](#通关信息-18)
   - [评价](#评价-18)
-- [The Unfinished Swan](#the-unfinished-swan)
+- [7 Days to End with You](#7-days-to-end-with-you)
   - [通关信息](#通关信息-19)
   - [评价](#评价-19)
-- [What Remains of Edith Finch](#what-remains-of-edith-finch)
+- [The Unfinished Swan](#the-unfinished-swan)
   - [通关信息](#通关信息-20)
   - [评价](#评价-20)
+- [What Remains of Edith Finch](#what-remains-of-edith-finch)
+  - [通关信息](#通关信息-21)
+  - [评价](#评价-21)
 
 ---
+# AI LIMIT 无限机兵
+## 通关信息
+
+| 平台 | 时长 | 状态 | 时间 |
+| ---- | --- | --- | --- |
+|  steam    | 19.6h    | 通关    | 2025.04.05   |
+
+## 评价
+
+二次元魂类，很小众的一个类别，但质量特别高，个人非常喜欢
+
+魂味 > 二次元，说是魂味，更像是血源：服装图个好看，武器各有特色，更鼓励进攻，弹反手感更像枪反。
+
+整体的战斗难度上还是远低于一般的魂游，适合作为年轻人的第一款类魂。但是这一部非常值得夸奖是它的地图设计，质量远高于现有的我玩过的所有类魂游戏，像匹诺曹、堕落之主和嗜血代码等，从这一点上说又不适合，毕竟就回不去了————这一部地图探索难度恰到好处，有很多让人眼前一亮的地方且找到的难度也适中，并且也有一个地方最后能通往所有地方的精巧设计且没有显得很刻意
+
+剧情上也做了违背类魂祖宗之法一些决定，首先就是剧情不谜语，虽然也有碎片化叙事，少数玩完就能看懂剧情的魂游；其次就是世界随惨但人物结局总体是好的，结局有点太有希望了，这更为最为违背祖宗之法的地方。但这并不是不好，剧情完整讲完了一个故事，并且讲的还可以，这已经强过现在的很多游戏了
+
 # 地狱之刃2
 ## 通关信息
 
