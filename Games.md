@@ -1,71 +1,97 @@
-- [AI LIMIT 无限机兵](#ai-limit-无限机兵)
+- [卧龙：苍天陨落](#卧龙苍天陨落)
   - [通关信息](#通关信息)
   - [评价](#评价)
-- [地狱之刃2](#地狱之刃2)
+- [AI LIMIT 无限机兵](#ai-limit-无限机兵)
   - [通关信息](#通关信息-1)
   - [评价](#评价-1)
-- [师父](#师父)
+- [地狱之刃2](#地狱之刃2)
   - [通关信息](#通关信息-2)
   - [评价](#评价-2)
-- [The Last of Us Part I](#the-last-of-us-part-i)
+- [师父](#师父)
   - [通关信息](#通关信息-3)
   - [评价](#评价-3)
-- [SILENT HILL: The Short Message](#silent-hill-the-short-message)
+- [The Last of Us Part I](#the-last-of-us-part-i)
   - [通关信息](#通关信息-4)
   - [评价](#评价-4)
-- [Metal Gear Solid 2](#metal-gear-solid-2)
+- [SILENT HILL: The Short Message](#silent-hill-the-short-message)
   - [通关信息](#通关信息-5)
   - [评价](#评价-5)
-- [Metal Gear Solid](#metal-gear-solid)
+- [Metal Gear Solid 2](#metal-gear-solid-2)
   - [通关信息](#通关信息-6)
   - [评价](#评价-6)
-- [Lies Of P](#lies-of-p)
+- [Metal Gear Solid](#metal-gear-solid)
   - [通关信息](#通关信息-7)
   - [评价](#评价-7)
-- [Superliminal](#superliminal)
+- [Lies Of P](#lies-of-p)
   - [通关信息](#通关信息-8)
   - [评价](#评价-8)
-- [仙剑奇侠传7](#仙剑奇侠传7)
+- [Superliminal](#superliminal)
   - [通关信息](#通关信息-9)
   - [评价](#评价-9)
-- [cocoon](#cocoon)
+- [仙剑奇侠传7](#仙剑奇侠传7)
   - [通关信息](#通关信息-10)
   - [评价](#评价-10)
-- [OPUS：龙脉长歌](#opus龙脉长歌)
+- [cocoon](#cocoon)
   - [通关信息](#通关信息-11)
   - [评价](#评价-11)
-- [Shadow of the Colossus](#shadow-of-the-colossus)
+- [OPUS：龙脉长歌](#opus龙脉长歌)
   - [通关信息](#通关信息-12)
   - [评价](#评价-12)
-- [UNCHARTED: Golden Abyss](#uncharted-golden-abyss)
+- [Shadow of the Colossus](#shadow-of-the-colossus)
   - [通关信息](#通关信息-13)
   - [评价](#评价-13)
-- [Assemble](#assemble)
+- [UNCHARTED: Golden Abyss](#uncharted-golden-abyss)
   - [通关信息](#通关信息-14)
   - [评价](#评价-14)
-- [South of the Circle](#south-of-the-circle)
+- [Assemble](#assemble)
   - [通关信息](#通关信息-15)
   - [评价](#评价-15)
-- [ICO](#ico)
+- [South of the Circle](#south-of-the-circle)
   - [通关信息](#通关信息-16)
   - [评价](#评价-16)
-- [Tales of Berseria 绯夜传奇](#tales-of-berseria-绯夜传奇)
+- [ICO](#ico)
   - [通关信息](#通关信息-17)
   - [评价](#评价-17)
-- [黄昏旅馆 215房间](#黄昏旅馆-215房间)
+- [Tales of Berseria 绯夜传奇](#tales-of-berseria-绯夜传奇)
   - [通关信息](#通关信息-18)
   - [评价](#评价-18)
-- [7 Days to End with You](#7-days-to-end-with-you)
+- [黄昏旅馆 215房间](#黄昏旅馆-215房间)
   - [通关信息](#通关信息-19)
   - [评价](#评价-19)
-- [The Unfinished Swan](#the-unfinished-swan)
+- [7 Days to End with You](#7-days-to-end-with-you)
   - [通关信息](#通关信息-20)
   - [评价](#评价-20)
-- [What Remains of Edith Finch](#what-remains-of-edith-finch)
+- [The Unfinished Swan](#the-unfinished-swan)
   - [通关信息](#通关信息-21)
   - [评价](#评价-21)
+- [What Remains of Edith Finch](#what-remains-of-edith-finch)
+  - [通关信息](#通关信息-22)
+  - [评价](#评价-22)
 
 ---
+# 卧龙：苍天陨落
+## 通关信息
+
+| 平台 | 时长 | 状态 | 时间 |
+| ---- | --- | --- | --- |
+|  steam    | 23.2h    | 通关    | 2025.04.20   |
+
+## 评价
+
+感觉时长不太准，应该要稍微多一些。这里是只打了结局，并没有把所有的副战场清完，不过打结局前的副战场都是清完了的，但之后的不准备打了
+
+玩到后面，我的想法就是快点玩完。也不能说不爽，少有的能弹反，且可以弹的比较爽的游戏
+
+但是还是不是很喜欢光荣做的战斗，感觉打击感还是差了些，特别是品鉴了很多款光荣的游戏后
+
+感觉整体都还是一个套路，像剧情战斗等，玩多了真的一眼就望到穿
+
+而且光荣整体像就罢了，一个游戏内的很多内容也很想，先不说副战场就是用的主战场的图，但稍微值得表扬一点是，这次和仁王比起来，副战场短了很多，但是重复就是重复
+
+抱怨了这么多，还是说说不错的地方：也是光荣的一个矛盾之处，真心觉得战斗的打击感很差，但是呢，还是能打的比较爽的，但是的但是还是不足以支撑这个游戏时长，深度感觉还有差了些。（结果还是在抱怨）
+
+不多说了，去体验浪人崛起去了，希望能带来点不一样的光荣体验
+
 # AI LIMIT 无限机兵
 ## 通关信息
 
