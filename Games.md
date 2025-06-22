@@ -1,77 +1,99 @@
-- [奥伯拉丁的回归](#奥伯拉丁的回归)
+- [33号远征军](#33号远征军)
   - [通关信息](#通关信息)
   - [评价](#评价)
-- [卧龙：苍天陨落](#卧龙苍天陨落)
+- [奥伯拉丁的回归](#奥伯拉丁的回归)
   - [通关信息](#通关信息-1)
   - [评价](#评价-1)
-- [AI LIMIT 无限机兵](#ai-limit-无限机兵)
+- [卧龙：苍天陨落](#卧龙苍天陨落)
   - [通关信息](#通关信息-2)
   - [评价](#评价-2)
-- [地狱之刃2](#地狱之刃2)
+- [AI LIMIT 无限机兵](#ai-limit-无限机兵)
   - [通关信息](#通关信息-3)
   - [评价](#评价-3)
-- [师父](#师父)
+- [地狱之刃2](#地狱之刃2)
   - [通关信息](#通关信息-4)
   - [评价](#评价-4)
-- [The Last of Us Part I](#the-last-of-us-part-i)
+- [师父](#师父)
   - [通关信息](#通关信息-5)
   - [评价](#评价-5)
-- [SILENT HILL: The Short Message](#silent-hill-the-short-message)
+- [The Last of Us Part I](#the-last-of-us-part-i)
   - [通关信息](#通关信息-6)
   - [评价](#评价-6)
-- [Metal Gear Solid 2](#metal-gear-solid-2)
+- [SILENT HILL: The Short Message](#silent-hill-the-short-message)
   - [通关信息](#通关信息-7)
   - [评价](#评价-7)
-- [Metal Gear Solid](#metal-gear-solid)
+- [Metal Gear Solid 2](#metal-gear-solid-2)
   - [通关信息](#通关信息-8)
   - [评价](#评价-8)
-- [Lies Of P](#lies-of-p)
+- [Metal Gear Solid](#metal-gear-solid)
   - [通关信息](#通关信息-9)
   - [评价](#评价-9)
-- [Superliminal](#superliminal)
+- [Lies Of P](#lies-of-p)
   - [通关信息](#通关信息-10)
   - [评价](#评价-10)
-- [仙剑奇侠传7](#仙剑奇侠传7)
+- [Superliminal](#superliminal)
   - [通关信息](#通关信息-11)
   - [评价](#评价-11)
-- [cocoon](#cocoon)
+- [仙剑奇侠传7](#仙剑奇侠传7)
   - [通关信息](#通关信息-12)
   - [评价](#评价-12)
-- [OPUS：龙脉长歌](#opus龙脉长歌)
+- [cocoon](#cocoon)
   - [通关信息](#通关信息-13)
   - [评价](#评价-13)
-- [Shadow of the Colossus](#shadow-of-the-colossus)
+- [OPUS：龙脉长歌](#opus龙脉长歌)
   - [通关信息](#通关信息-14)
   - [评价](#评价-14)
-- [UNCHARTED: Golden Abyss](#uncharted-golden-abyss)
+- [Shadow of the Colossus](#shadow-of-the-colossus)
   - [通关信息](#通关信息-15)
   - [评价](#评价-15)
-- [Assemble](#assemble)
+- [UNCHARTED: Golden Abyss](#uncharted-golden-abyss)
   - [通关信息](#通关信息-16)
   - [评价](#评价-16)
-- [South of the Circle](#south-of-the-circle)
+- [Assemble](#assemble)
   - [通关信息](#通关信息-17)
   - [评价](#评价-17)
-- [ICO](#ico)
+- [South of the Circle](#south-of-the-circle)
   - [通关信息](#通关信息-18)
   - [评价](#评价-18)
-- [Tales of Berseria 绯夜传奇](#tales-of-berseria-绯夜传奇)
+- [ICO](#ico)
   - [通关信息](#通关信息-19)
   - [评价](#评价-19)
-- [黄昏旅馆 215房间](#黄昏旅馆-215房间)
+- [Tales of Berseria 绯夜传奇](#tales-of-berseria-绯夜传奇)
   - [通关信息](#通关信息-20)
   - [评价](#评价-20)
-- [7 Days to End with You](#7-days-to-end-with-you)
+- [黄昏旅馆 215房间](#黄昏旅馆-215房间)
   - [通关信息](#通关信息-21)
   - [评价](#评价-21)
-- [The Unfinished Swan](#the-unfinished-swan)
+- [7 Days to End with You](#7-days-to-end-with-you)
   - [通关信息](#通关信息-22)
   - [评价](#评价-22)
-- [What Remains of Edith Finch](#what-remains-of-edith-finch)
+- [The Unfinished Swan](#the-unfinished-swan)
   - [通关信息](#通关信息-23)
   - [评价](#评价-23)
+- [What Remains of Edith Finch](#what-remains-of-edith-finch)
+  - [通关信息](#通关信息-24)
+  - [评价](#评价-24)
 
 ---
+# 33号远征军
+## 通关信息
+
+| 平台 | 时长 | 状态 | 时间 |
+| ---- | --- | --- | --- |
+|  xbox    | 42h    | 通关    | 2025.06.22   |
+
+## 评价
+
+或许我不应该该等到玩完再写评价，玩的时候感觉有很多想说的，但就现在话反而说不出来了
+
+知道今年到现在为止，是我心中最好的游戏；甚至我整个游戏列表中都能很靠前，就是这么喜欢这个游戏
+
+最开始，我觉得能看出很多经验不足的，体现独立游戏特点的地方，但最后的最后都不是很想提了
+
+结局我很喜欢，真实而又无可奈何
+
+之后再来进行补充吧
+
 # 奥伯拉丁的回归
 ## 通关信息
 
